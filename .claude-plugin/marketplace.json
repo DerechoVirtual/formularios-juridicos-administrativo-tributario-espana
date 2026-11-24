@@ -1,0 +1,45 @@
+{
+  "name": "formularios-juridicos-administrativo-tributario-espana",
+  "owner": {
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
+  },
+  "metadata": {
+    "description": "Formularios jurídicos de España para Claude · Administrativo y Tributario: 2 plugins por materia (51 formularios), una skill por formulario, cada una conectada a Jurisprudenciator para verificar las normas.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "formularios-reclamaciones-tributarias",
+      "source": "./plugins/formularios-reclamaciones-tributarias",
+      "description": "Reclamaciones tributarias y económico-administrativas · España (25 formularios). Para discutir con Hacienda: reclamaciones económico-administrativas ante los TEAR y el TEAC, alegaciones, oposición a la derivación de responsabilidad, recursos contra liquidaciones e IVA, aplazamientos, consolidación fiscal y otras comunicaciones tributarias. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "administrativo y tributario",
+        "tributario"
+      ]
+    },
+    {
+      "name": "formularios-licencias-subvenciones-y-reclamaciones",
+      "source": "./plugins/formularios-licencias-subvenciones-y-reclamaciones",
+      "description": "Licencias, subvenciones y reclamaciones ante la Administración · España (26 formularios). Para tratar con la Administración fuera de lo tributario: licencias urbanísticas y de actividad, subvenciones (solicitud, subsanación y reintegro), reclamaciones ante la AEPD y la CNMV, recursos administrativos y escritos de contencioso que aparecían en estas colecciones. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "administrativo y tributario",
+        "administrativo-general"
+      ]
+    }
+  ]
+}
