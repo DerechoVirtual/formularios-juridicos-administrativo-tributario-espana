@@ -1,6 +1,6 @@
 ---
 name: solicitud-aplazamiento-fraccionamiento-deudas-adm-0002
-description: "Solicitud de aplazamiento o fraccionamiento de deudas tributarias superiores a 50.000 euros. Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Solicitud de aplazamiento o fraccionamiento de deudas tributarias superiores a 50.000 euros. Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Solicitud de aplazamiento o fraccionamiento de deudas tributarias superiores a 50.000 euros

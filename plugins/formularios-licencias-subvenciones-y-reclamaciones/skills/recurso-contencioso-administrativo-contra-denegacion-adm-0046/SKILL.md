@@ -1,6 +1,6 @@
 ---
 name: recurso-contencioso-administrativo-contra-denegacion-adm-0046
-description: "Recurso contencioso-administrativo contra la denegación de la nacionalidad española. Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Recurso contencioso-administrativo contra la denegación de la nacionalidad española. Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Recurso contencioso-administrativo contra la denegación de la nacionalidad española

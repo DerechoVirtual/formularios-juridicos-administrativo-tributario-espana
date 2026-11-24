@@ -1,6 +1,6 @@
 ---
 name: solicitud-reconocimiento-justicia-gratuita-recuperar-adm-0023
-description: "Solicitud de reconocimiento de justicia gratuita para recuperar la tasa pagada (Ley 10-2012). Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Solicitud de reconocimiento de justicia gratuita para recuperar la tasa pagada (Ley 10-2012). Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Solicitud de reconocimiento de justicia gratuita para recuperar la tasa pagada (Ley 10-2012)

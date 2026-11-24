@@ -1,6 +1,6 @@
 ---
 name: escrito-alegaciones-actas-inspeccion-disconformidad-a02-adm-0020
-description: "Escrito de alegaciones a las actas de inspección con disconformidad (A02). Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Escrito de alegaciones a las actas de inspección con disconformidad (A02). Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Escrito de alegaciones a las actas de inspección con disconformidad (A02)

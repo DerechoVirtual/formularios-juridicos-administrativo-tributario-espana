@@ -1,6 +1,6 @@
 ---
 name: reclamacion-economico-administrativa-contra-adm-0001
-description: "Reclamación económico-administrativa contra la repercusión tributaria improcedente. Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Reclamación económico-administrativa contra la repercusión tributaria improcedente. Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Reclamación económico-administrativa contra la repercusión tributaria improcedente

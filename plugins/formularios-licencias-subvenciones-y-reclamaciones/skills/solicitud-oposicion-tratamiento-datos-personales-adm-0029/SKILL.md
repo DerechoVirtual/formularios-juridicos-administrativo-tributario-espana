@@ -1,6 +1,6 @@
 ---
 name: solicitud-oposicion-tratamiento-datos-personales-adm-0029
-description: "Solicitud de oposición al tratamiento de datos personales (modelo de la AEPD). Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Solicitud de oposición al tratamiento de datos personales (modelo de la AEPD). Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Solicitud de oposición al tratamiento de datos personales (modelo de la AEPD)

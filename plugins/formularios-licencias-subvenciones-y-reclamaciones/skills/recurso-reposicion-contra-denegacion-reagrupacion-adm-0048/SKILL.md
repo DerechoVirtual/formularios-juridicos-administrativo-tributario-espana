@@ -1,6 +1,6 @@
 ---
 name: recurso-reposicion-contra-denegacion-reagrupacion-adm-0048
-description: "Recurso de reposición contra la denegación de reagrupación familiar de ciudadanos no comunitarios. Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Recurso de reposición contra la denegación de reagrupación familiar de ciudadanos no comunitarios. Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Recurso de reposición contra la denegación de reagrupación familiar de ciudadanos no comunitarios

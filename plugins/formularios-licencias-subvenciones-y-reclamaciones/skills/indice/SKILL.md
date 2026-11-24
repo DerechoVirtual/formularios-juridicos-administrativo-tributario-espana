@@ -1,6 +1,6 @@
 ---
 name: indice
-description: "Índice de los 26 formularios de Licencias, subvenciones y reclamaciones ante la Administración. Úsala cuando el usuario pida un documento de esta materia y no esté claro qué formulario usar: propone el adecuado y lo abre."
+description: "Índice de los 26 formularios de Licencias, subvenciones y reclamaciones ante la Administración. Úsala cuando el usuario pida un documento de esta materia y no esté claro qué formulario usar: propone el adecuado y lo abre. Requiere Jurisprudenciator."
 ---
 
 # Licencias, subvenciones y reclamaciones ante la Administración: índice de formularios

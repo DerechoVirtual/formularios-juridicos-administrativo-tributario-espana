@@ -1,6 +1,6 @@
 ---
 name: oposicion-derivacion-responsabilidad-solidaria-adm-0006
-description: "Oposición a la derivación de responsabilidad solidaria por colaborar en una infracción tributaria. Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Oposición a la derivación de responsabilidad solidaria por colaborar en una infracción tributaria. Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Oposición a la derivación de responsabilidad solidaria por colaborar en una infracción tributaria

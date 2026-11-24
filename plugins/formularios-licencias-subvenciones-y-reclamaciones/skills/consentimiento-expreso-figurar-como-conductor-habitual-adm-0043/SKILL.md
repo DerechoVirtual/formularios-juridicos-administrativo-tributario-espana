@@ -1,6 +1,6 @@
 ---
 name: consentimiento-expreso-figurar-como-conductor-habitual-adm-0043
-description: "Consentimiento expreso para figurar como conductor habitual de un vehículo ante Tráfico. Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Consentimiento expreso para figurar como conductor habitual de un vehículo ante Tráfico. Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Consentimiento expreso para figurar como conductor habitual de un vehículo ante Tráfico

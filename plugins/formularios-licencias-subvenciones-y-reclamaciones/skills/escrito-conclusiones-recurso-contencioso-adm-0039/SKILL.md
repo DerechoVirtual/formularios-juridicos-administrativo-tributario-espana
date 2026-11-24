@@ -1,6 +1,6 @@
 ---
 name: escrito-conclusiones-recurso-contencioso-adm-0039
-description: "Escrito de conclusiones en el recurso contencioso-administrativo ordinario. Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Escrito de conclusiones en el recurso contencioso-administrativo ordinario. Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Escrito de conclusiones en el recurso contencioso-administrativo ordinario

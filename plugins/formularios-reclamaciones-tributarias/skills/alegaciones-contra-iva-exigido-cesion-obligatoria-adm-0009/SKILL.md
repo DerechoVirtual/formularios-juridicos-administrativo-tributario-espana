@@ -1,6 +1,6 @@
 ---
 name: alegaciones-contra-iva-exigido-cesion-obligatoria-adm-0009
-description: "Alegaciones contra el IVA exigido en la cesión obligatoria de un terreno al ayuntamiento. Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Alegaciones contra el IVA exigido en la cesión obligatoria de un terreno al ayuntamiento. Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Alegaciones contra el IVA exigido en la cesión obligatoria de un terreno al ayuntamiento

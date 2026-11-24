@@ -1,9 +1,10 @@
 {
   "name": "formularios-reclamaciones-tributarias",
   "version": "1.0.0",
-  "description": "Reclamaciones tributarias y económico-administrativas: 25 formularios revisados el 24-11-2026, cada uno convertido en una skill que lo rellena paso a paso. Para discutir con Hacienda: reclamaciones económico-administrativas ante los TEAR y el TEAC, alegaciones, oposición a la derivación de responsabilidad, recursos contra liquidaciones e IVA, aplazamientos, consolidación fiscal y otras comunicaciones tributarias. Requiere Jurisprudenciator.",
+  "description": "Reclamaciones tributarias y económico-administrativas: 25 formularios revisados el 24-11-2026, cada uno convertido en una skill que lo rellena paso a paso. Para discutir con Hacienda: reclamaciones económico-administrativas ante los TEAR y el TEAC, alegaciones, oposición a la derivación de responsabilidad, recursos contra liquidaciones e IVA, aplazamientos, consolidación fiscal y otras comunicaciones tributarias. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
   "author": {
-    "name": "Derecho Virtual"
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
   },
   "displayName": "Reclamaciones tributarias y económico-administrativas · España",
   "icon": "./.claude-plugin/icon.png",
@@ -19,5 +20,7 @@
     "modelos",
     "administrativo y tributario",
     "tributario"
-  ]
+  ],
+  "repository": "https://github.com/DerechoVirtual/formularios-juridicos-administrativo-tributario-espana",
+  "documentationUrl": "https://github.com/DerechoVirtual/formularios-juridicos-administrativo-tributario-espana/tree/main/plugins/formularios-reclamaciones-tributarias"
 }

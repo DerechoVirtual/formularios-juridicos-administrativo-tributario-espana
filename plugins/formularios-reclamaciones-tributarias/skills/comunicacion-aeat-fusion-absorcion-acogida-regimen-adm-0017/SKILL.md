@@ -1,6 +1,6 @@
 ---
 name: comunicacion-aeat-fusion-absorcion-acogida-regimen-adm-0017
-description: "Comunicación a la AEAT de una fusión por absorción acogida al régimen especial de fusiones. Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Comunicación a la AEAT de una fusión por absorción acogida al régimen especial de fusiones. Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Comunicación a la AEAT de una fusión por absorción acogida al régimen especial de fusiones

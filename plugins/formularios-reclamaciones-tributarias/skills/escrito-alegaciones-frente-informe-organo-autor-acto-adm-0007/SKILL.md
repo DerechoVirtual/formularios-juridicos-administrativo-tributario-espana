@@ -1,6 +1,6 @@
 ---
 name: escrito-alegaciones-frente-informe-organo-autor-acto-adm-0007
-description: "Escrito de alegaciones frente al informe del órgano autor del acto impugnado ante el TEA. Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Escrito de alegaciones frente al informe del órgano autor del acto impugnado ante el TEA. Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Escrito de alegaciones frente al informe del órgano autor del acto impugnado ante el TEA

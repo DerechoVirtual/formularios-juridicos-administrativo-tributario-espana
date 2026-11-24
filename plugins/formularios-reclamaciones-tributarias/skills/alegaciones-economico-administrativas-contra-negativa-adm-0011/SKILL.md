@@ -1,6 +1,6 @@
 ---
 name: alegaciones-economico-administrativas-contra-negativa-adm-0011
-description: "Alegaciones económico-administrativas contra la negativa a deducir IVA por factura incompleta. Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Alegaciones económico-administrativas contra la negativa a deducir IVA por factura incompleta. Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Alegaciones económico-administrativas contra la negativa a deducir IVA por factura incompleta

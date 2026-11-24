@@ -1,6 +1,6 @@
 ---
 name: reclamacion-economico-administrativa-contra-acuerdo-adm-0019
-description: "Reclamación económico-administrativa contra el acuerdo que confirma una autoliquidación. Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Reclamación económico-administrativa contra el acuerdo que confirma una autoliquidación. Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Reclamación económico-administrativa contra el acuerdo que confirma una autoliquidación

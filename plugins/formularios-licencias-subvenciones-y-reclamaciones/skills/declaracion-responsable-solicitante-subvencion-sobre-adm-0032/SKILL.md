@@ -1,6 +1,6 @@
 ---
 name: declaracion-responsable-solicitante-subvencion-sobre-adm-0032
-description: "Declaración responsable del solicitante de subvención sobre el cumplimiento de requisitos. Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Declaración responsable del solicitante de subvención sobre el cumplimiento de requisitos. Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Declaración responsable del solicitante de subvención sobre el cumplimiento de requisitos

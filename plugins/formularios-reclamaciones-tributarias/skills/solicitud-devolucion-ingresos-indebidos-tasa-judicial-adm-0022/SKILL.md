@@ -1,6 +1,6 @@
 ---
 name: solicitud-devolucion-ingresos-indebidos-tasa-judicial-adm-0022
-description: "Solicitud de devolución de ingresos indebidos de la tasa judicial por justicia gratuita (RDL 3-2013). Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Solicitud de devolución de ingresos indebidos de la tasa judicial por justicia gratuita (RDL 3-2013). Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Solicitud de devolución de ingresos indebidos de la tasa judicial por justicia gratuita (RDL 3-2013)

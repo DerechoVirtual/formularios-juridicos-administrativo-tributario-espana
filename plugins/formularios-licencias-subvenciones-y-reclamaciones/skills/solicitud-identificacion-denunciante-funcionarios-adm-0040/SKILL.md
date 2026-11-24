@@ -1,6 +1,6 @@
 ---
 name: solicitud-identificacion-denunciante-funcionarios-adm-0040
-description: "Solicitud de identificación del denunciante y de los funcionarios en un expediente sancionador. Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Solicitud de identificación del denunciante y de los funcionarios en un expediente sancionador. Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Solicitud de identificación del denunciante y de los funcionarios en un expediente sancionador

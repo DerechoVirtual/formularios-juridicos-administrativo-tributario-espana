@@ -1,6 +1,6 @@
 ---
 name: recurso-reposicion-contra-denegacion-prueba-proceso-adm-0036
-description: "Recurso de reposición contra la denegación de prueba en el proceso contencioso-administrativo. Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Recurso de reposición contra la denegación de prueba en el proceso contencioso-administrativo. Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Recurso de reposición contra la denegación de prueba en el proceso contencioso-administrativo

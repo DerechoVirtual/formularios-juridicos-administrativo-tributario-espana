@@ -1,6 +1,6 @@
 ---
 name: otrosi-demanda-contencioso-administrativa-pidiendo-adm-0035
-description: "Otrosí de la demanda contencioso-administrativa pidiendo vista o conclusiones. Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Otrosí de la demanda contencioso-administrativa pidiendo vista o conclusiones. Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Otrosí de la demanda contencioso-administrativa pidiendo vista o conclusiones

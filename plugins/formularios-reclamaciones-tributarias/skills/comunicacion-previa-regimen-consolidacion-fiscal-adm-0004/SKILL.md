@@ -1,6 +1,6 @@
 ---
 name: comunicacion-previa-regimen-consolidacion-fiscal-adm-0004
-description: "Comunicación previa del régimen de consolidación fiscal del Impuesto sobre Sociedades. Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Comunicación previa del régimen de consolidación fiscal del Impuesto sobre Sociedades. Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Comunicación previa del régimen de consolidación fiscal del Impuesto sobre Sociedades

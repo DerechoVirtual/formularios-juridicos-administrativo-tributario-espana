@@ -1,6 +1,6 @@
 ---
 name: solicitud-medida-cautelar-suspension-acto-adm-0034
-description: "Solicitud de medida cautelar de suspensión del acto administrativo recurrido. Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Solicitud de medida cautelar de suspensión del acto administrativo recurrido. Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Solicitud de medida cautelar de suspensión del acto administrativo recurrido

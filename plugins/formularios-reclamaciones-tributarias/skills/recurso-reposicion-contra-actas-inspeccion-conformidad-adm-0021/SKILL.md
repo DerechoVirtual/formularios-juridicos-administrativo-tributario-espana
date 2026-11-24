@@ -1,6 +1,6 @@
 ---
 name: recurso-reposicion-contra-actas-inspeccion-conformidad-adm-0021
-description: "Recurso de reposición contra actas de inspección con conformidad (A01). Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Recurso de reposición contra actas de inspección con conformidad (A01). Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Recurso de reposición contra actas de inspección con conformidad (A01)

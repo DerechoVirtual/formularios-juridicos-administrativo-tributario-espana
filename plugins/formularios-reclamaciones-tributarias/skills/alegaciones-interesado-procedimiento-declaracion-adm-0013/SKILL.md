@@ -1,6 +1,6 @@
 ---
 name: alegaciones-interesado-procedimiento-declaracion-adm-0013
-description: "Alegaciones del interesado en el procedimiento de declaración de lesividad. Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Alegaciones del interesado en el procedimiento de declaración de lesividad. Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Alegaciones del interesado en el procedimiento de declaración de lesividad

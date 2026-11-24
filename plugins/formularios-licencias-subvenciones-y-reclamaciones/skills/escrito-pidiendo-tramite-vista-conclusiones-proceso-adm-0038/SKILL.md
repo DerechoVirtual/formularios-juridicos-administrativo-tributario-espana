@@ -1,6 +1,6 @@
 ---
 name: escrito-pidiendo-tramite-vista-conclusiones-proceso-adm-0038
-description: "Escrito pidiendo el trámite de vista o de conclusiones en el proceso contencioso-administrativo. Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Escrito pidiendo el trámite de vista o de conclusiones en el proceso contencioso-administrativo. Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Escrito pidiendo el trámite de vista o de conclusiones en el proceso contencioso-administrativo

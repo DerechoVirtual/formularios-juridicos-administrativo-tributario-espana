@@ -1,6 +1,6 @@
 ---
 name: contrato-colaboracion-subvencion-evento-musical-adm-0033
-description: "Contrato de colaboración y subvención para un evento musical por procedimiento negociado. Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Contrato de colaboración y subvención para un evento musical por procedimiento negociado. Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Contrato de colaboración y subvención para un evento musical por procedimiento negociado

@@ -1,6 +1,6 @@
 ---
 name: comunicacion-trafico-arrendatario-largo-plazo-vehiculo-adm-0041
-description: "Comunicación a Tráfico del arrendatario a largo plazo de un vehículo por su titular. Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Comunicación a Tráfico del arrendatario a largo plazo de un vehículo por su titular. Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Comunicación a Tráfico del arrendatario a largo plazo de un vehículo por su titular

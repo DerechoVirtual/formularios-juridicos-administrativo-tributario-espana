@@ -1,6 +1,6 @@
 ---
 name: escrito-personacion-recurrido-reclamacion-omision-adm-0012
-description: "Escrito de personación del recurrido en la reclamación por omisión de expedir una factura. Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Escrito de personación del recurrido en la reclamación por omisión de expedir una factura. Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Escrito de personación del recurrido en la reclamación por omisión de expedir una factura

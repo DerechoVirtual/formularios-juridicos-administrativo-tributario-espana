@@ -1,6 +1,6 @@
 ---
 name: escrito-reclamacion-ante-comision-nacional-mercado-adm-0026
-description: "Escrito de reclamación ante la Comisión Nacional del Mercado de Valores. Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Escrito de reclamación ante la Comisión Nacional del Mercado de Valores. Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Escrito de reclamación ante la Comisión Nacional del Mercado de Valores

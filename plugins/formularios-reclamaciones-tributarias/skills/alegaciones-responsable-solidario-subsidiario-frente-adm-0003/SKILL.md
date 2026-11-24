@@ -1,6 +1,6 @@
 ---
 name: alegaciones-responsable-solidario-subsidiario-frente-adm-0003
-description: "Alegaciones del responsable solidario o subsidiario frente a la derivación de deuda tributaria. Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Alegaciones del responsable solidario o subsidiario frente a la derivación de deuda tributaria. Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Alegaciones del responsable solidario o subsidiario frente a la derivación de deuda tributaria

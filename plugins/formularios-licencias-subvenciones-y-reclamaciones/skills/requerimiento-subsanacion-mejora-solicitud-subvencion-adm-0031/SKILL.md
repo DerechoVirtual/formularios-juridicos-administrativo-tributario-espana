@@ -1,6 +1,6 @@
 ---
 name: requerimiento-subsanacion-mejora-solicitud-subvencion-adm-0031
-description: "Requerimiento de subsanación y mejora de la solicitud de subvención. Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Requerimiento de subsanación y mejora de la solicitud de subvención. Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Requerimiento de subsanación y mejora de la solicitud de subvención

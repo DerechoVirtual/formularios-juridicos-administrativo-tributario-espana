@@ -1,6 +1,6 @@
 ---
 name: recurso-alzada-ante-sala-gobierno-tsj-contra-sancion-adm-0050
-description: "Recurso de alzada ante la Sala de Gobierno del TSJ contra la sanción por mala fe procesal. Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Recurso de alzada ante la Sala de Gobierno del TSJ contra la sanción por mala fe procesal. Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Recurso de alzada ante la Sala de Gobierno del TSJ contra la sanción por mala fe procesal

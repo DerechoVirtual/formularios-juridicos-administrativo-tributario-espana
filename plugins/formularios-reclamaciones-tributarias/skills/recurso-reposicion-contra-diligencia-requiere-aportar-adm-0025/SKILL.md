@@ -1,6 +1,6 @@
 ---
 name: recurso-reposicion-contra-diligencia-requiere-aportar-adm-0025
-description: "Recurso de reposición contra la diligencia que requiere aportar la tasa judicial en proceso exento. Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Recurso de reposición contra la diligencia que requiere aportar la tasa judicial en proceso exento. Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Recurso de reposición contra la diligencia que requiere aportar la tasa judicial en proceso exento

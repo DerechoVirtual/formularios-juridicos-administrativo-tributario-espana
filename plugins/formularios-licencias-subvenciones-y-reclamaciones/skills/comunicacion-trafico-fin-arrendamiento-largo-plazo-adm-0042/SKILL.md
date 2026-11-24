@@ -1,6 +1,6 @@
 ---
 name: comunicacion-trafico-fin-arrendamiento-largo-plazo-adm-0042
-description: "Comunicación a Tráfico del fin del arrendamiento a largo plazo de un vehículo por su titular. Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Comunicación a Tráfico del fin del arrendamiento a largo plazo de un vehículo por su titular. Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Comunicación a Tráfico del fin del arrendamiento a largo plazo de un vehículo por su titular

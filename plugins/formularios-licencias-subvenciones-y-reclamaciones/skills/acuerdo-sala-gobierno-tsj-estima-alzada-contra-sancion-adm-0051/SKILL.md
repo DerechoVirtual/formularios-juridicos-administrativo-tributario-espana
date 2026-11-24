@@ -1,6 +1,6 @@
 ---
 name: acuerdo-sala-gobierno-tsj-estima-alzada-contra-sancion-adm-0051
-description: "Acuerdo de la Sala de Gobierno del TSJ que estima la alzada contra la sanción por mala fe procesal. Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Acuerdo de la Sala de Gobierno del TSJ que estima la alzada contra la sanción por mala fe procesal. Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Acuerdo de la Sala de Gobierno del TSJ que estima la alzada contra la sanción por mala fe procesal

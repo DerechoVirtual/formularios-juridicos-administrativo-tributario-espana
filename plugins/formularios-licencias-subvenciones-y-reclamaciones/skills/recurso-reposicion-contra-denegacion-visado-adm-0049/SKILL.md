@@ -1,6 +1,6 @@
 ---
 name: recurso-reposicion-contra-denegacion-visado-adm-0049
-description: "Recurso de reposición contra la denegación del visado de reagrupación familiar de españoles. Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Recurso de reposición contra la denegación del visado de reagrupación familiar de españoles. Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Recurso de reposición contra la denegación del visado de reagrupación familiar de españoles

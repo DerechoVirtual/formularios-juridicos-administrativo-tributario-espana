@@ -1,6 +1,6 @@
 ---
 name: escrito-otorga-representacion-otra-persona-actuar-adm-0037
-description: "Escrito por el que se otorga representación a otra persona para actuar en el procedimiento. Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Escrito por el que se otorga representación a otra persona para actuar en el procedimiento. Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Escrito por el que se otorga representación a otra persona para actuar en el procedimiento

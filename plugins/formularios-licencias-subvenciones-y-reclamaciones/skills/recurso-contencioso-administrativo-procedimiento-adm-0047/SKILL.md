@@ -1,6 +1,6 @@
 ---
 name: recurso-contencioso-administrativo-procedimiento-adm-0047
-description: "Recurso contencioso-administrativo por el procedimiento de protección de derechos fundamentales. Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Recurso contencioso-administrativo por el procedimiento de protección de derechos fundamentales. Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Recurso contencioso-administrativo por el procedimiento de protección de derechos fundamentales

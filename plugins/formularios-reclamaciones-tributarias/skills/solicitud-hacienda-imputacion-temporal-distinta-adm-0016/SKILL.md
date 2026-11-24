@@ -1,6 +1,6 @@
 ---
 name: solicitud-hacienda-imputacion-temporal-distinta-adm-0016
-description: "Solicitud a Hacienda de imputación temporal distinta del devengo en el Impuesto sobre Sociedades. Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Solicitud a Hacienda de imputación temporal distinta del devengo en el Impuesto sobre Sociedades. Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Solicitud a Hacienda de imputación temporal distinta del devengo en el Impuesto sobre Sociedades

@@ -1,6 +1,6 @@
 ---
 name: oposicion-administrador-sociedad-inactiva-derivacion-adm-0005
-description: "Oposición del administrador de sociedad inactiva a la derivación de responsabilidad subsidiaria. Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Oposición del administrador de sociedad inactiva a la derivación de responsabilidad subsidiaria. Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Oposición del administrador de sociedad inactiva a la derivación de responsabilidad subsidiaria

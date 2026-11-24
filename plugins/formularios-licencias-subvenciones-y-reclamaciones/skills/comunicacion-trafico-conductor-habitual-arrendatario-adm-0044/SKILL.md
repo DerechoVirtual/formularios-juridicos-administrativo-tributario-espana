@@ -1,6 +1,6 @@
 ---
 name: comunicacion-trafico-conductor-habitual-arrendatario-adm-0044
-description: "Comunicación a Tráfico del conductor habitual por el arrendatario a largo plazo del vehículo. Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Comunicación a Tráfico del conductor habitual por el arrendatario a largo plazo del vehículo. Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Comunicación a Tráfico del conductor habitual por el arrendatario a largo plazo del vehículo

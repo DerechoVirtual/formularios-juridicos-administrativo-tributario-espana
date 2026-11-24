@@ -1,6 +1,6 @@
 ---
 name: alegaciones-contra-denegacion-exencion-entidad-social-adm-0010
-description: "Alegaciones contra la denegación de exención a una entidad social de salud mental. Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Alegaciones contra la denegación de exención a una entidad social de salud mental. Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Alegaciones contra la denegación de exención a una entidad social de salud mental

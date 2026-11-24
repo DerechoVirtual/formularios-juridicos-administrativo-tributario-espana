@@ -1,6 +1,6 @@
 ---
 name: solicitud-limitacion-tratamiento-datos-personales-adm-0028
-description: "Solicitud de limitación del tratamiento de datos personales (modelo de la AEPD). Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Solicitud de limitación del tratamiento de datos personales (modelo de la AEPD). Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Solicitud de limitación del tratamiento de datos personales (modelo de la AEPD)

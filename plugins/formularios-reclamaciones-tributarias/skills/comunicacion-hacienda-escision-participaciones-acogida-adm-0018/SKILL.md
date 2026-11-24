@@ -1,6 +1,6 @@
 ---
 name: comunicacion-hacienda-escision-participaciones-acogida-adm-0018
-description: "Comunicación a Hacienda de una escisión de participaciones acogida al régimen especial del IS. Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Comunicación a Hacienda de una escisión de participaciones acogida al régimen especial del IS. Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Comunicación a Hacienda de una escisión de participaciones acogida al régimen especial del IS

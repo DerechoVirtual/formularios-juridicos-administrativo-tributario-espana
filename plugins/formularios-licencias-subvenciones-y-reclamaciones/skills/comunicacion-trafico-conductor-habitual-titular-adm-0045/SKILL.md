@@ -1,6 +1,6 @@
 ---
 name: comunicacion-trafico-conductor-habitual-titular-adm-0045
-description: "Comunicación a Tráfico del conductor habitual por el titular del vehículo. Lo redacta con los datos del caso y comprueba las normas con Jurisprudenciator."
+description: "Comunicación a Tráfico del conductor habitual por el titular del vehículo. Lo redacta con los datos del caso y comprueba las normas en el BOE. Requiere Jurisprudenciator."
 ---
 
 # Comunicación a Tráfico del conductor habitual por el titular del vehículo
