@@ -5,7 +5,7 @@ description: "Solicitud de aprobación de plan especial de amortización en el I
 
 # Solicitud de aprobación de plan especial de amortización en el Impuesto sobre Sociedades
 
-> Formulario **ADM-0015** del plugin **Reclamaciones tributarias y económico-administrativas** (`formularios-reclamaciones-tributarias`) · Administrativo y Tributario › Tributario y económico-administrativo · normativa revisada el 24-11-2026.
+> Formulario **ADM-0015** del plugin **Reclamaciones tributarias y económico-administrativas** (`formularios-reclamaciones-tributarias`) · Administrativo y Tributario › Tributario y económico-administrativo · normativa revisada el 25-11-2026.
 
 ## Qué es
 
@@ -22,13 +22,14 @@ Para obtener, en pocos minutos, un borrador completo de «Solicitud de aprobaci�
 1. **Pídelo con tus palabras**, por ejemplo: «Prepárame el documento “Solicitud de aprobación de plan especial de amortización en el Impuesto sobre Sociedades” para mi caso». También puedes invocarla directamente con `/formularios-reclamaciones-tributarias:solicitud-aprobacion-plan-especial-amortizacion-adm-0015`.
 2. **Dale los datos del caso** cuando te los pida (abajo tienes la lista para tenerlos a mano). Lo que no sepas queda como hueco visible.
 3. **Resuelve las opciones** que te plantee (las marcadas [ELEGIR] y [OPCIONAL] en el modelo).
-4. **Recibe el documento en Word, tal cual es el formulario**: empieza por su primera línea (por ejemplo «En [LOCALIDAD], a [FECHA]» o «A LA SECCIÓN…»), sin títulos ni notas añadidas, en Times New Roman 12, interlineado 1,15 y texto justificado. Lo pendiente, las normas comprobadas y el plazo te los dice en el chat.
+4. **Recibe el documento en Word, tal cual es el formulario**: empieza por su primera línea (por ejemplo «En [LOCALIDAD], a [FECHA]» o «A LA SECCIÓN…»), sin títulos ni notas añadidas, en Times New Roman 11, interlineado 1,15 y texto justificado. Lo pendiente, las normas comprobadas y el plazo te los dice en el chat.
 
 Si no estás seguro de que este sea el formulario que necesitas, usa el índice del plugin: `/formularios-reclamaciones-tributarias:indice`.
 
 ## Qué contiene esta skill
 
-- Este fichero: al final, en «Texto del formulario», está el formulario tal cual, desde su primera línea hasta la firma, con sus campos [EN MAYÚSCULAS] y sus opciones [ELEGIR…] / [OPCIONAL…].
+- `SKILL.md` (este fichero): qué es el formulario, para qué sirve, cómo se usa, los datos que pide, las normas que cita, los avisos de actualización y las instrucciones para Claude.
+- `assets/formulario.md`: el formulario seco, tal cual, desde su primera línea hasta la firma, con sus campos [EN MAYÚSCULAS] y sus opciones [ELEGIR…] / [OPCIONAL…]. Es el texto que se rellena; no lleva explicaciones.
 - `../indice/marco.md` (en la skill `indice` del plugin): la guía del tema (Reclamaciones tributarias y económico-administrativas) con las normas, órganos y plazos vigentes que Claude lee antes de redactar.
 
 ## Datos que conviene tener a mano
@@ -90,53 +91,15 @@ Escrito de solicitud de aprobación de plan especial de amortización en el IS. 
 ### Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee entero el «Texto del formulario» (al final de este fichero) y la parte de `../indice/marco.md` que afecte al caso. Limítate a la materia de este formulario: no añadas contenido ajeno a él.
+2. Lee entero `assets/formulario.md` (el formulario que vas a rellenar, en la carpeta de esta skill) y la parte de `../indice/marco.md` que afecte al caso. Limítate a la materia de este formulario: no añadas contenido ajeno a él.
 3. Pide los datos de la lista en una sola tanda. Si un dato aparece varias veces, aclara a qué persona o acto corresponde cada vez. Lo que el usuario no sepa se queda como hueco visible con su etiqueta (p. ej. [FECHA]).
 4. Resuelve cada [ELEGIR …] y cada [OPCIONAL …] según los hechos, y sustituye cualquier indicación entre paréntesis del formulario («(se describirá…)», «(indicar…)») por el contenido que corresponda. Redacta las partes que dependen del caso (hechos, motivos, descripción de bienes).
 5. Aplica los avisos de actualización en el lugar que indican. Comprueba con `buscar_articulo` cada norma citada; si alguna ha cambiado, usa la redacción vigente. Si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
 6. Antes de entregarlo, pasa `verificar_escrito` con las frases que citan normas o sentencias y corrige lo que señale.
 7. **Documento final = el formulario tal cual, rellenado y limpio.**
-   - Empieza exactamente por la primera línea del «Texto del formulario» y sigue su estructura y su orden hasta la firma.
+   - Empieza exactamente por la primera línea de `assets/formulario.md` y sigue su estructura y su orden hasta la firma.
    - No pongas en el documento título, nombre del formulario o de la skill, código, encabezados, «Para qué sirve», leyendas, avisos, notas de uso, comentarios ni explicaciones. Tampoco marcas [ELEGIR…] u [OPCIONAL…]: ya están resueltas.
-   - Formato Word (.docx, con la skill de Word disponible): **Times New Roman 12 pt** en todo el documento, **interlineado 1,15**, **texto justificado**, márgenes de 2,5 cm. Los rótulos del formulario (REUNIDOS, CLÁUSULAS, HECHOS, SUPLICO…) en su propia línea y en negrita, sin cambiar su texto.
+   - Formato Word (.docx, con la skill de Word disponible): **Times New Roman 11 pt** en todo el documento, **interlineado 1,15**, **texto justificado**, márgenes de 2,5 cm. Los rótulos del formulario (REUNIDOS, CLÁUSULAS, HECHOS, SUPLICO…) en su propia línea y en negrita, sin cambiar su texto.
 8. En el chat (nunca dentro del documento): datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator (y, si algún dato sale de internet, cuál y su enlace) y, si es un escrito judicial o administrativo, el plazo y el órgano ante el que se presenta.
 
 El resultado es un borrador para que lo revise un profesional antes de usarlo.
-
-## Texto del formulario
-
-Lo que sigue, hasta el final de este fichero, es el formulario tal cual: desde su primera línea hasta la firma.
-
-A LA AGENCIA TRIBUTARIA DELEGACIÓN DE [PROVINCIA]
-
-D. [NOMBRE Y APELLIDOS], con D.N.I. nº [NÚMERO], en nombre y representación de la entidad [DENOMINACIÓN SOCIAL] con C.I.F. nº [NÚMERO] y domicilio fiscal en calle [CALLE], número [NÚMERO], de la ciudad de [LOCALIDAD] (teléfono [TELÉFONO]), en virtud de escritura de apoderamiento de fecha [DÍA] de [MES] de [AÑO] ante el Notario de [LOCALIDAD], D. [NOMBRE Y APELLIDOS], con nº [NÚMERO] de su protocolo,
-
-EXPONE
-
-Realización de inversiones
-
-Que la mencionada entidad, cuya actividad principal es [ACTIVIDAD], clasificada en las tarifas del IAE bajo el epígrafe [Nº DE EPÍGRAFE], ha realizado durante este ejercicio unas inversiones en activos fijos nuevos por importe de [IMPORTE] euros.
-
-Depreciación efectiva superior
-
-Que la depreciación efectiva del inmovilizado adquirido va a ser superior a la que resulta de la aplicación de las tablas de amortización, por lo que interesa solicitar la concesión de un plan especial de amortización para ajustar las dotaciones a realizar en los ejercicios futuros.
-
-Propuesta de plan de amortizació especial
-
-Que al amparo del artículo 12.1.d) de la Ley 27/2014, de 27 de noviembre, del Impuesto sobre Sociedades, y 7 del Real Decreto 634/2015, de 10 de julio, por el que se aprueba su Reglamento de desarrollo, solicita el plan especial de amortización que se detalla a continuación para las inversiones efectuadas en el ejercicio [EJERCICIO] y cuya entrada en funcionamiento se prevé para el 1 de enero del ejercicio siguiente, fecha de finalización de las obras de [DESCRIPCIÓN DE LAS OBRAS].
-
-Que las inversiones realizadas y los criterios de amortización que se proponen para las mismas son los que siguen:
-
-Descripción Elemento	Fecha de adquisición	Valor adquisición (euros)	Coef. Amort.	Cuota Amort. (euros)
-
-Total
-
-Las amortizaciones consignadas podrán, no obstante, tener las oscilaciones, en más o en menos, que sean lógica consecuencia de los resultados obtenidos por la empresa en los ejercicios a que el plan se extiende.
-
-En consecuencia, el plan especial de amortización formulado afectaría a los ejercicios [AÑO INICIAL] - [AÑO FINAL].
-
-Memoria justificativa del método de amortización propuesto
-
-Que se acompaña la siguiente memoria justificativa del método de amortización propuesto desde los puntos de vista técnico y económico.
-
-En, localidad, a [DÍA] de [MES] de [AÑO]

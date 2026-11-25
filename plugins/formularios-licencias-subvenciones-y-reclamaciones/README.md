@@ -1,22 +1,24 @@
 # Licencias, subvenciones y reclamaciones ante la Administración
 
-> Plugin de Claude Code `formularios-licencias-subvenciones-y-reclamaciones` · **26 formularios** · Administrativo y Tributario · normativa revisada el 24-11-2026 · requiere Jurisprudenciator
+> Plugin de Claude Code `formularios-licencias-subvenciones-y-reclamaciones` · **46 formularios** · Administrativo y Tributario · normativa revisada el 25-11-2026 · requiere Jurisprudenciator
 
 ## Para qué sirve
 
-Para tratar con la Administración fuera de lo tributario: licencias urbanísticas y de actividad, subvenciones (solicitud, subsanación y reintegro), reclamaciones ante la AEPD y la CNMV, recursos administrativos y escritos de contencioso que aparecían en estas colecciones.
+Para tratar con la Administración fuera de lo tributario: licencias urbanísticas y de actividad, subvenciones (solicitud, subsanación y reintegro), reclamaciones ante la AEPD y la CNMV, sanciones de tráfico y procedimiento sancionador, nacionalidad por residencia, responsabilidad patrimonial, recursos administrativos y escritos de contencioso.
 
-Cada formulario es una skill: Claude lo rellena contigo paso a paso y te entrega el documento en Word, con las normas comprobadas en el BOE. Cada skill explica en su `SKILL.md` qué es el formulario, para qué sirve, cómo se usa, qué datos necesita y qué avisos normativos lleva.
+Cada formulario es una skill: Claude lo rellena contigo paso a paso y te entrega el documento en Word, con las normas comprobadas en el BOE. Cada skill explica en su `SKILL.md` qué es el formulario, para qué sirve, cómo se usa, qué datos necesita y qué avisos normativos lleva; el formulario seco, listo para rellenar, está en `assets/formulario.md` dentro de la carpeta de la skill.
 
 ## Qué puedes hacer con él
 
-Estos son los tipos de documento que trae, con algunos ejemplos (la lista completa de los 26 está al final):
+Estos son los tipos de documento que trae, con algunos ejemplos (la lista completa de los 46 está al final):
 
 - **Demandas, peticiones y solicitudes iniciales** (2). Por ejemplo: Recurso contencioso-administrativo contra la denegación de la nacionalidad española; Recurso contencioso-administrativo por el procedimiento de protección de derechos fundamentales.
-- **Recursos** (4). Por ejemplo: Recurso de reposición contra la denegación de prueba en el proceso contencioso-administrativo; Recurso de reposición contra la denegación de reagrupación familiar de ciudadanos no comunitarios; Recurso de reposición contra la denegación del visado de reagrupación familiar de españoles.
-- **Contratos, pactos y cláusulas** (2). Por ejemplo: Contrato de colaboración y subvención para un evento musical por procedimiento negociado; Acuerdo de la Sala de Gobierno del TSJ que estima la alzada contra la sanción por mala fe procesal.
-- **Comunicaciones, requerimientos y cartas** (12). Por ejemplo: Solicitud de licencia de edificación o de usos en suelo urbano especial; Solicitud de limitación del tratamiento de datos personales (modelo de la AEPD); Solicitud de oposición al tratamiento de datos personales (modelo de la AEPD).
-- **Escritos de trámite y otros** (6). Por ejemplo: Escrito de reclamación ante la Comisión Nacional del Mercado de Valores; Otrosí de la demanda contencioso-administrativa pidiendo vista o conclusiones; Escrito por el que se otorga representación a otra persona para actuar en el procedimiento.
+- **Contestaciones, oposiciones y alegaciones** (1). Por ejemplo: Alegaciones del interesado en el recurso de reposición contra una sanción de tráfico.
+- **Recursos** (7). Por ejemplo: Recurso de reposición contra la denegación de prueba en el proceso contencioso-administrativo; Recurso de alzada ante la Sala de Gobierno del TSJ contra la sanción por mala fe procesal; Recurso de reposición contra una sanción de tráfico relativa al transporte de personas.
+- **Contratos, pactos y cláusulas** (5). Por ejemplo: Contrato de colaboración y subvención para un evento musical por procedimiento negociado; Acuerdo de la Sala de Gobierno del TSJ que estima la alzada contra la sanción por mala fe procesal; Acuerdo que declara prescrita la sanción y archiva el expediente sancionador.
+- **Estatutos, actas, certificaciones y escrituras** (3). Por ejemplo: Informe del denunciante sobre las alegaciones del denunciado contra la propuesta de resolución; Poder de una asociación vecinal para tramitar la segregación ya iniciada de un núcleo del municipio; Poder de una asociación a favor de un tercero para tramitar la segregación municipal.
+- **Comunicaciones, requerimientos y cartas** (15). Por ejemplo: Solicitud de licencia de edificación o de usos en suelo urbano especial; Solicitud de limitación del tratamiento de datos personales (modelo de la AEPD); Solicitud de oposición al tratamiento de datos personales (modelo de la AEPD).
+- **Escritos de trámite y otros** (13). Por ejemplo: Escrito de reclamación ante la Comisión Nacional del Mercado de Valores; Otrosí de la demanda contencioso-administrativa pidiendo vista o conclusiones; Escrito por el que se otorga representación a otra persona para actuar en el procedimiento.
 
 ## Cómo se usa
 
@@ -32,9 +34,9 @@ Estos son los tipos de documento que trae, con algunos ejemplos (la lista comple
 1. Comprueba que Jurisprudenciator está conectado. Si no lo está, se para y te dice cómo conectarlo: no redacta nada sin él. Todos los datos jurídicos del documento (artículos vigentes, sentencias con su ECLI, datos registrales) salen de Jurisprudenciator; nunca de memoria.
 2. Te pide en una sola tanda los datos del caso (partes, órgano, fechas, importes…). Lo que no sepas queda como hueco visible.
 3. Resuelve contigo las opciones que el formulario deja abiertas y decide qué párrafos opcionales entran según los hechos.
-4. Aplica las notas de actualización de la revisión del 24-11-2026 (reformas legales, órganos judiciales de la LO 1/2025, plazos).
+4. Aplica las notas de actualización de la revisión del 25-11-2026 (reformas legales, órganos judiciales de la LO 1/2025, plazos).
 5. Comprueba en el BOE, con Jurisprudenciator, cada norma que cita el documento; si alguna ha cambiado, usa la redacción vigente y te lo dice.
-6. Te entrega el documento en Word **tal cual es el formulario**: empieza por su primera línea, sin títulos, notas ni explicaciones añadidas, en Times New Roman 12, interlineado 1,15 y texto justificado. En el chat te dice lo que queda pendiente y, si es un escrito, el plazo y ante quién se presenta.
+6. Te entrega el documento en Word **tal cual es el formulario**: empieza por su primera línea, sin títulos, notas ni explicaciones añadidas, en Times New Roman 11, interlineado 1,15 y texto justificado. En el chat te dice lo que queda pendiente y, si es un escrito, el plazo y ante quién se presenta.
 
 El resultado es un borrador para que lo revise un profesional antes de usarlo.
 
@@ -42,7 +44,7 @@ El resultado es un borrador para que lo revise un profesional antes de usarlo.
 
 - **Dónde funciona:** en Claude Code y en Claude (web, escritorio y Cowork). Se instala desde este repositorio de GitHub o subiendo el ZIP del plugin.
 - **Jurisprudenciator es imprescindible:** el plugin trae el conector y cada skill trabaja siempre con él. Sin una cuenta de Jurisprudenciator conectada, las skills se paran y no redactan nada. La primera vez hay que iniciar sesión (en Claude Code, con `/mcp`; o con tu URL personal: https://jurisprudenciator.lexiaipro.org/instalacion). Si ya tienes Jurisprudenciator conectado en Claude, las skills usan ese.
-- **Espacio que ocupa:** unos 1.677 tokens en cada conversación mientras esté activado, porque Claude lleva en memoria la descripción de cada skill. Activa solo los plugins que vayas a usar; los demás puedes desactivarlos sin desinstalarlos (`claude plugin disable formularios-licencias-subvenciones-y-reclamaciones@formularios-juridicos-administrativo-tributario-espana`).
+- **Espacio que ocupa:** unos 2.930 tokens en cada conversación mientras esté activado, porque Claude lleva en memoria la descripción de cada skill. Activa solo los plugins que vayas a usar; los demás puedes desactivarlos sin desinstalarlos (`claude plugin disable formularios-licencias-subvenciones-y-reclamaciones@formularios-juridicos-administrativo-tributario-espana`).
 
 ## Instalación
 
@@ -57,7 +59,7 @@ En Claude (web, escritorio o Cowork): **Personalizar → Plugins → Añadir mar
 
 Para comprobar que está instalado: `claude plugin list`.
 
-## Lista completa de formularios (26)
+## Lista completa de formularios (46)
 
 | Código | Formulario | Skill |
 |---|---|---|
@@ -83,10 +85,30 @@ Para comprobar que está instalado: `claude plugin list`.
 | ADM-0045 | Comunicación a Tráfico del conductor habitual por el titular del vehículo | `comunicacion-trafico-conductor-habitual-titular-adm-0045` |
 | ADM-0046 | Recurso contencioso-administrativo contra la denegación de la nacionalidad española | `recurso-contencioso-administrativo-contra-denegacion-adm-0046` |
 | ADM-0047 | Recurso contencioso-administrativo por el procedimiento de protección de derechos fundamentales | `recurso-contencioso-administrativo-procedimiento-adm-0047` |
-| ADM-0048 | Recurso de reposición contra la denegación de reagrupación familiar de ciudadanos no comunitarios | `recurso-reposicion-contra-denegacion-reagrupacion-adm-0048` |
-| ADM-0049 | Recurso de reposición contra la denegación del visado de reagrupación familiar de españoles | `recurso-reposicion-contra-denegacion-visado-adm-0049` |
 | ADM-0050 | Recurso de alzada ante la Sala de Gobierno del TSJ contra la sanción por mala fe procesal | `recurso-alzada-ante-sala-gobierno-tsj-contra-sancion-adm-0050` |
 | ADM-0051 | Acuerdo de la Sala de Gobierno del TSJ que estima la alzada contra la sanción por mala fe procesal | `acuerdo-sala-gobierno-tsj-estima-alzada-contra-sancion-adm-0051` |
+| ADM-0052 | Recurso de reposición contra una sanción de tráfico relativa al transporte de personas | `recurso-reposicion-contra-sancion-trafico-relativa-adm-0052` |
+| ADM-0053 | Recurso de reposición contra una sanción por infringir las normas de tráfico y seguridad vial | `recurso-reposicion-contra-sancion-infringir-normas-adm-0053` |
+| ADM-0054 | Traslado al denunciante de las alegaciones del inculpado contra la propuesta de resolución | `traslado-denunciante-alegaciones-inculpado-contra-adm-0054` |
+| ADM-0055 | Informe del denunciante sobre las alegaciones del denunciado contra la propuesta de resolución | `informe-denunciante-sobre-alegaciones-denunciado-adm-0055` |
+| ADM-0056 | Alegaciones del interesado en el recurso de reposición contra una sanción de tráfico | `alegaciones-interesado-recurso-reposicion-contra-adm-0056` |
+| ADM-0057 | Comunicación del trámite de audiencia a los interesados antes de resolver el recurso administrativo | `comunicacion-tramite-audiencia-interesados-antes-adm-0057` |
+| ADM-0058 | Resolución que desestima el recurso de reposición contra una sanción administrativa | `resolucion-desestima-recurso-reposicion-contra-sancion-adm-0058` |
+| ADM-0059 | Resolución que estima en todo o en parte el recurso de reposición contra una sanción | `resolucion-estima-todo-parte-recurso-reposicion-contra-adm-0059` |
+| ADM-0060 | Acuerdo que declara prescrita la sanción y archiva el expediente sancionador | `acuerdo-declara-prescrita-sancion-archiva-expediente-adm-0060` |
+| ADM-0061 | Notificación del inicio del expediente de resarcimiento de daños causados a la Administración | `notificacion-inicio-expediente-resarcimiento-danos-adm-0061` |
+| ADM-0062 | Escrito de alegaciones en el expediente para indemnizar a la Administración por los daños causados | `escrito-alegaciones-expediente-indemnizar-adm-0062` |
+| ADM-0063 | Traslado a los demás interesados del recurso de reposición contra una sanción de tráfico | `traslado-demas-interesados-recurso-reposicion-contra-adm-0063` |
+| ADM-0064 | Acuerdo del órgano competente que archiva el expediente sancionador por caducidad | `acuerdo-organo-competente-archiva-expediente-adm-0064` |
+| ADM-0065 | Petición del interesado de un certificado que acredite la caducidad del expediente sancionador | `peticion-interesado-certificado-acredite-caducidad-adm-0065` |
+| ADM-0066 | Acuerdo que inicia el resarcimiento de daños no cuantificados en el expediente sancionador | `acuerdo-inicia-resarcimiento-danos-no-cuantificados-adm-0066` |
+| ADM-0067 | Poder de una asociación vecinal para tramitar la segregación ya iniciada de un núcleo del municipio | `poder-asociacion-vecinal-tramitar-segregacion-ya-adm-0067` |
+| ADM-0068 | Poder de una asociación a favor de un tercero para tramitar la segregación municipal | `poder-asociacion-favor-tercero-tramitar-segregacion-adm-0068` |
+| ADM-0069 | Recurso de reposición contra la denegación de la nacionalidad española por residencia | `recurso-reposicion-contra-denegacion-nacionalidad-adm-0069` |
+| ADM-0070 | Escrito de interposición del contencioso ante la Audiencia Nacional en materia de nacionalidad | `escrito-interposicion-contencioso-ante-audiencia-adm-0070` |
+| ADM-0071 | Reclamación de responsabilidad patrimonial por la denegación indebida de una autorización de trabajo | `reclamacion-responsabilidad-patrimonial-denegacion-adm-0071` |
+| ADM-0072 | Escrito de demanda en el contencioso ante la Audiencia Nacional sobre nacionalidad | `escrito-demanda-contencioso-ante-audiencia-nacional-adm-0072` |
+| ADM-0073 | Recurso administrativo potestativo de reposición contra un acto de la Administración | `recurso-administrativo-potestativo-reposicion-contra-adm-0073` |
 
 ## Privacidad
 

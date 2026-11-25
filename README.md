@@ -1,8 +1,8 @@
 # Formularios jurídicos de España para Claude · Administrativo y Tributario
 
-2 plugins de formularios de Administrativo y Tributario, uno por materia. Cada formulario es una skill que Claude rellena paso a paso con los datos del caso y entrega en Word tal cual es el formulario (Times New Roman 12, interlineado 1,15 y texto justificado): 53 skills en total, contando la skill `indice` de cada plugin, que sirve para encontrar el formulario adecuado.
+2 plugins de formularios de Administrativo y Tributario, uno por materia. Cada formulario es una skill que Claude rellena paso a paso con los datos del caso y entrega en Word tal cual es el formulario (Times New Roman 11, interlineado 1,15 y texto justificado): 73 skills en total, contando la skill `indice` de cada plugin, que sirve para encontrar el formulario adecuado.
 
-Todas las skills trabajan con **Jurisprudenciator** (https://jurisprudenciator.lexiaipro.org): antes de redactar comprueban que el conector responde y verifican en fuentes oficiales las normas que cita el formulario. Sin Jurisprudenciator conectado, las skills no redactan. Normativa revisada el 24-11-2026.
+Todas las skills trabajan con **Jurisprudenciator** (https://jurisprudenciator.lexiaipro.org): antes de redactar comprueban que el conector responde y verifican en fuentes oficiales las normas que cita el formulario. Sin Jurisprudenciator conectado, las skills no redactan. Normativa revisada el 25-11-2026.
 
 Las demás jurisdicciones están en repositorios propios: [Mercantil](https://github.com/DerechoVirtual/formularios-juridicos-mercantil-espana), [Civil](https://github.com/DerechoVirtual/formularios-juridicos-civil-espana), [Seguridad Social](https://github.com/DerechoVirtual/formularios-juridicos-seguridad-social-espana), [Laboral](https://github.com/DerechoVirtual/formularios-juridicos-laboral-espana), [Penal](https://github.com/DerechoVirtual/formularios-juridicos-penal-espana).
 
@@ -24,13 +24,13 @@ En Claude (web, escritorio y Cowork) se puede añadir este repositorio desde **P
 | Plugin | Contenido | Skills | ZIP |
 |---|---|---:|---|
 | `formularios-reclamaciones-tributarias` | Reclamaciones tributarias y económico-administrativas | 26 | [descargar](https://github.com/DerechoVirtual/formularios-juridicos-administrativo-tributario-espana/releases/latest/download/formularios-reclamaciones-tributarias.zip) |
-| `formularios-licencias-subvenciones-y-reclamaciones` | Licencias, subvenciones y reclamaciones ante la Administración | 27 | [descargar](https://github.com/DerechoVirtual/formularios-juridicos-administrativo-tributario-espana/releases/latest/download/formularios-licencias-subvenciones-y-reclamaciones.zip) |
+| `formularios-licencias-subvenciones-y-reclamaciones` | Licencias, subvenciones y reclamaciones ante la Administración | 47 | [descargar](https://github.com/DerechoVirtual/formularios-juridicos-administrativo-tributario-espana/releases/latest/download/formularios-licencias-subvenciones-y-reclamaciones.zip) |
 
 ## Estructura
 
 ```
 .claude-plugin/marketplace.json  catálogo del marketplace
-plugins/<plugin>/                .claude-plugin/plugin.json, .mcp.json, skills/, README.md, PRIVACY.md, LICENSE
+plugins/<plugin>/                .claude-plugin/plugin.json, .mcp.json, skills/<skill>/SKILL.md y assets/formulario.md, README.md, PRIVACY.md, LICENSE
 ```
 
 ## Aviso
